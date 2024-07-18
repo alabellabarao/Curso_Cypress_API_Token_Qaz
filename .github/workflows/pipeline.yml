@@ -1,4 +1,4 @@
-name: Cupress API Tests
+name: Cypress API Tests
 on:
   pull_request:
     branches: [main]
